@@ -1,90 +1,14 @@
 [
   {
-    "number": "6285373311356",
+    "number": "085705390430",
     "status": "active"
   },
   {
-    "number": "6283198860141",
+    "number": "085750255978",
     "status": "active"
   },
   {
-    "number": "62881027561518",
-    "status": "active"
-  },
-  {
-    "number": "6282120896607",
-    "status": "active"
-  },
-  {
-    "number": "6285941156555",
-    "status": "active"
-  },
-  {
-    "number": "6283838073785",
-    "status": "active"
-  },
-  {
-    "number": "6283847258685",
-    "status": "active"
-  },
-  {
-    "number": "6283898318616",
-    "status": "active"
-  },
-  {
-    "number": "628388253955",
-    "status": "active"
-  },
-  {
-    "number": "989910717020",
-    "status": "active"
-  },
-  {
-    "number": "6285792860781",
-    "status": "active"
-  },
-  {
-    "number": "6283190775805",
-    "status": "active"
-  },
-  {
-    "number": "6285830042962",
-    "status": "active"
-  },
-  {
-    "number": "6285184953681",
-    "status": "active"
-  },
-  {
-    "number": "6281915895185",
-    "status": "active"
-  },
-  {
-    "number": "6283827982354",
-    "status": "active"
-  },
-  {
-    "number": "6285789202646",
-    "status": "active"
-  },
-  {
-    "number": "6287837064939",
-    "status": "active"
-  },
-  {
-    "number": "6287865821314",
-    "status": "active"
-  },
-  {
-    "number": "6285664235146",
-    "status": "active"
-  },
-  {
-    "number": "6285123027385",
-    "status": "active"
-  },
-  {
-    "number": "6281249703469",
+    "number": "081249703469",
     "status": "active"
   },
   {
@@ -92,23 +16,7 @@
     "status": "active"
   },
   {
-    "number": "6288991898716",
-    "status": "active"
-  },
-  {
-    "number": "6283823592056",
-    "status": "active"
-  },
-  {
-    "type": "user_password",
-    "value": "alipdev"
-  },
-  {
-    "number": "6285835463653",
-    "status": "active"
-  },
-  {
-    "number": "6285123223954",
+    "number": "6285941156555",
     "status": "active"
   },
   {
@@ -116,43 +24,19 @@
     "status": "active"
   },
   {
-    "number": "6281958525667",
-    "status": "active"
-  },
-  {
-    "number": "62882003639040",
-    "status": "active"
-  },
-  {
-    "number": "6283169639582",
-    "status": "active"
-  },
-  {
-    "number": "62895322716319",
-    "status": "active"
-  },
-  {
-    "number": "6282133295313",
-    "status": "active"
-  },
-  {
-    "number": "6285750255978",
-    "status": "active"
-  },
-  {
-    "number": "62857502559788",
-    "status": "active"
-  },
-  {
     "number": "6282311784767",
     "status": "active"
   },
   {
-    "number": "6287741777839",
+    "number": "6283198860141",
     "status": "active"
   },
   {
-    "number": "6285705390430",
+    "number": "48459260793",
+    "status": "active"
+  },
+  {
+    "number": "6287837064939",
     "status": "active"
   }
 ]
